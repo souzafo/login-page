@@ -5,20 +5,14 @@ Criando uma página de login simples apenas com HTML, CSS e JS e subindo esses a
 
 1. Contruindo e iniciando o contêiner Docker
 
-<code>
-docker-compose up --build
-</code>
+<code>docker-compose up --build</code>
 
 2. Acesse usando seu endereço de localhost na porta 8080
 
-<code>
-http://localhost:8080
-</code>
+<code>http://localhost:8080</code>
 
 3. Para o contêiner
 
-Você pode pressionar `**Ctrl + C**`
+Você pode pressionar \`**Ctrl + C**\`
 
-<code>
-docker-compose down
-</code>
+<code>docker-compose down</code>
